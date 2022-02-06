@@ -3,7 +3,7 @@
   "descricao": "Eliminiatórias Copa 2022",
    "local":{
     "nome": "Maracanã",
-    "imagem": "TODO"
+    "imagem": "https://s3.static.brasilescola.uol.com.br/img/2019/12/estadio-maracana-novo.jpg"
    },
     "mandante": {
     "nome": "Brasil",
@@ -20,7 +20,7 @@
   "descricao": "Eliminiatórias Copa 2022",
    "local":{
     "nome": "Estádio Centenário",
-    "imagem": "TODO"
+    "imagem": "https://www.lance.com.br/files/article_main/uploads/2021/11/26/61a144d25523b.jpeg"
    },
     "mandante": {
     "nome": "Uruguay",
@@ -37,7 +37,7 @@
   "descricao": "Eliminiatórias Copa 2022",
    "local":{
     "nome": "Maracanã",
-    "imagem": "TODO"
+    "imagem": "https://s3.static.brasilescola.uol.com.br/img/2019/12/estadio-maracana-novo.jpg"
    },
     "mandante": {
     "nome": "Brasil",
